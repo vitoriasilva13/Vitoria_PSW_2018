@@ -1,1 +1,1 @@
-Exemplo para projetinho hiperfixacao.com
+Site criado em 2018 para matéria de interface
